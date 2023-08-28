@@ -1,0 +1,15 @@
+#+Title: Math120
+
+* Classes
+** MATH 120A Lecture 1 12:30-13:30
+SCHEDULED: <2023-09-11 +1w>
+LOCATION: Jeffery Hall 128
+** MATH 120A Tutorial 17:30-18:30
+SCHEDULED: <2023-09-11 +1w>
+LOCATION: Ellis Hall 324
+** MATH 120A Lecture 2 11:30-12:30
+SCHEDULED: <2023-09-06 +1w>
+LOCATION: Jeffery Hall 128
+** MATH 120A Lecture 3 13:30-14:30
+SCHEDULED: <2023-09-07 +1w>
+LOCATION: Jeffery Hall 128

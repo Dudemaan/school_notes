@@ -1,0 +1,6 @@
+#+Title: Autopilot Schedule
+
+* Personal
+** Morning Routine 07:00-08:00
+ SCHEDULED: <2023-08-25 +1d>
+:
