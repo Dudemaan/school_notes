@@ -1,0 +1,3 @@
+#+title: Literals
+
+Any piece of data in a program whos value is self-evident and cannot be changed. For example: 1, 5, True, "Hello". Basically a piece of data that you can read in the code and know immediatly what the value is.

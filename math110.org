@@ -1,15 +1,57 @@
 #+Title: Math110
+#+begin_src emacs-lisp :results silent
+
+** TODO Get copy of textbook: Linear Algebra, A Modern Introduction; David Poole; 4th edition
 
 * Classes
 ** MATH 110A Lecture 1 12:30-13:30
-SCHEDULED: <2023-09-05 +1w>
+<2023-09-05 +1w>
 LOCATION: Jeffery Hall 128
 ** MATH 110A Tutorial 17:30-18:30
-SCHEDULED: <2023-09-06 +1w>
+<2023-09-06 +1w>
 LOCATION: Ellis Hall 324
 ** MATH 110A Lecture 2 11:30-12:30
-SCHEDULED: <2023-09-07 +1w>
+<2023-09-07 +1w>
 LOCATION: Jeffery Hall 128
-** MATH 119A Lecture 3 13:30-14:30
-SCHEDULED: <2023-09-08 +1w>
+** MATH 110A Lecture 3 13:30-14:30
+<2023-09-08 +1w>
 LOCATION: Jeffery Hall 128
+
+* Autopilot
+** Start weekly MATH110 homework 9:30-11:00
+<2023-09-11 +1w>
+Jeffery Hall
+** MATH110 Lecture processing 13:30-14:00
+<2023-09-05 +1w>
+Jeffery Hall
+** MATH110 Lecture processing 12:30-13:00
+<2023-09-07 +1w>
+Jeffery Hall
+** MATH110 Lecture processing 14:30-15:00
+<2023-09-08 +1w>
+Jeffery Hall
+** MATH110 weekly repair/extension sessions 13:00-15:00
+<2023-09-06 +1w>
+Jeffery Hall
+
+* Sylabus
+** TODO Homework
+SCHEDULED: <2023-09-15 +1w>
+Problems on ONQ, complete for every friday
+Worth 30% of grade
+** TODO Midterms
+SCHEDULED: <2023-10-17>
+SCHEDULED: <2023-11-21>
+Worth 30% of grade
+** Exam
+Sometime in december
+Worth 40% of grade
+
+* Lectures
+** Lecture 1: [[file:./FleetingNotes/math110l1.pdf]]
+| Concept          | Mastery      | Importance | Link                               |
+|------------------+--------------+------------+------------------------------------|
+| Linear Systems   | Course Level | Medium     | [[./AtomicNotes/linear_systems.org]]   |
+| Linear Equations | Course Level | Low        | [[./AtomicNotes/linear_equations.org]] |
+| Core number sets |              |            | [[./AtomicNotes/core_number_sets.org]] |
+| Set Notation     |              |            | [[./AtomicNotes/set_notation.org]]     |

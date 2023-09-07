@@ -1,0 +1,5 @@
+#+title: F Strings
+
+A form of string with a more natural way to put a variable into the text. Type an "f" at the beginning of the quotes, then input any variable names you want to use between "{}". Example:
+
+f"Today is {day_name}"

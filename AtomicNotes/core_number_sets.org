@@ -1,0 +1,11 @@
+#+title: Core Number Sets
+#+STARTUP: latexpreview
+
+$\mathbb{N}$ = every non-negative whole number (in calc. this include 0, in lin. alg. this does not)
+$\mathbb{Z}$ = every whole number, integers {-1, 19, 0, 22}
+$\mathbb{Q}$ = every number that is the result of one number devided by another number, unless the devisor is 0, rational numbers
+$\mathbb{R}$ = every number which we can represent on the number line, rational numbers + irrationals, real numbers
+$\mathbb{C}$ = any number that can be represented in the form $a + bi$, where $i = \sqrt{-1}$, b can go to zero, representing all the previous numbers
+$\mathbf{Q}$ = quaternions, represented which are all numbers $a + bi + cJ + dK \mid a, b, c, d \in \mathbb{R}$, $\mid$ represents "such that"
+
+From these definitions we can infer that $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R} \subset \mathbb{C} \subset \mathbf{Q}$

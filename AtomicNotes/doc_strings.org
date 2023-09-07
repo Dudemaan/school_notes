@@ -1,0 +1,9 @@
+#+title: Doc Strings
+
+Represented by three quotation marks to open and close the string. Allows for multiple lines of strings, this can be used to naturally input strings with a newline character, muli-line comments, and documentation in python. Example
+
+"""
+This is a doc string. Strings are docs.
+This is also in the doc string.
+Wow.
+"""

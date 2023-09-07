@@ -1,0 +1,8 @@
+#+title: Functions
+
+Functions are any rule that recieves input, and outputs exactly one output based on that rule. The input and output must be some kind of quantity.
+
+We can study functions using three tools:
+1. [[./derivitives.org][Derivitives]]: approximate the function and its slope at a infinitely small point
+2. [[./integrals.org][Integrals]]: add a bunch of small pieces of the function into a big piece, get the area
+3. [[./power_series.org][Power Series]]: represent complex functions as infinite polynomials

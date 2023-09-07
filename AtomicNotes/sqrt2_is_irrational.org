@@ -1,0 +1,28 @@
+#+title: Sqrt2 Is Irrational
+#+STARTUP: latexpreview
+
+First we need to prove the following lemma: if $p^2$ is even, then $p$ is even. We will do a proof by contradiction. First we assume p is odd. If this is the case then the following must be true, where q is a random positive integer:
+
+$$ p = 2q + 1 $$
+
+We can square both sides and rearrange to get the following equation:
+
+$$ p^2 = (2q + 1)^2 $$
+$$ p^2 = 4q^2 + 4q + 1 $$
+$$ p^2 - 4q^2 - 4q = 1 $$
+
+since we know p^2 is even, and both other terms are even because they are multiplied by a factor of 2, that means 1 must be even since it is the sum of those numbers. This is obviously false, so that is a proof by contradiction ($\rightarrow\mspace{-2mu}\leftarrow$)
+
+Now that we know this, we can prove that sqrt 2 is irrational. If we assume that sqrt 2 is rational, then we can do another proof by contradiction. By definition we know that a [[./core_number_sets.org][rational number]] must be able to be represented by a fraction of two integers, where demoninator cannot be zero. From the definition of what a fraction is, these numbers must have no common devisor, otherwise the fraction could be simplified more and would not be the base form of the fraction. To start we use the definition of a rational number and rearrange:
+
+$\sqrt{2} = \frac{m}{n}$
+$2 = \frac{m^2}{n^2}$
+$m^2 = 2n^2$
+
+Since $m^2$ is 2 times a number, we know it is even. From the lemma above, we know that m is even, so we can represent m as $m = 2m_1$ where $m_1$ is a positive integer. We can substitute this back into the previous equation and rearrange:
+
+$2n^2 = m^2 = (2m_1)^2$
+$2n^2 = 4 m_1 ^2$
+$n^2 = 2m_1^2$
+
+Once again, by definition $n^2$ is even. So we apply the same lemma, we show that n is also even. But since m is even AND n is even, that means they are both devisible by 2. Meaning they have a common devisor no matter what the number is, so we could never get a true fraction. By contradiction of the definition of a fraction, our assumption that $\sqrt2$ is rational is wrong.

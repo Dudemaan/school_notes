@@ -1,0 +1,3 @@
+#+title: Linear Equations
+
+Any equation where the exponent of every variable is 0 or 1.

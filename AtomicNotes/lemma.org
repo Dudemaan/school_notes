@@ -1,0 +1,3 @@
+#+title: Lemma
+
+A lemma is a sub-theorum to help with the solving of a full theorum. Think of it as a programming function, where you only have to write it out once, then you can just reference the lemma anytime you need to use the effect it proved.

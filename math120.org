@@ -1,15 +1,50 @@
 #+Title: Math120
 
+** TODO Try to get 9th edition of calculus, early transcendentals
+
 * Classes
 ** MATH 120A Lecture 1 12:30-13:30
-SCHEDULED: <2023-09-11 +1w>
+<2023-09-11 +1w>
 LOCATION: Jeffery Hall 128
 ** MATH 120A Tutorial 17:30-18:30
-SCHEDULED: <2023-09-11 +1w>
+<2023-09-11 +1w>
 LOCATION: Ellis Hall 324
 ** MATH 120A Lecture 2 11:30-12:30
-SCHEDULED: <2023-09-06 +1w>
+<2023-09-06 +1w>
 LOCATION: Jeffery Hall 128
 ** MATH 120A Lecture 3 13:30-14:30
-SCHEDULED: <2023-09-07 +1w>
+<2023-09-07 +1w>
 LOCATION: Jeffery Hall 128
+
+* Autopilot
+** Start on Math120 Homework 8:30-10:00
+<2023-09-06 +1w>
+** Math120 Lecture processing 13:30-14:00
+<2023-09-11 +1w>
+** Math120 Lecture processing 12:30-13:00
+<2023-09-06 +1w>
+** Math120 Lecture processing 14:30-15:00
+<2023-09-07 +1w>
+** Math120 Repair/extension session 14:00-16:00
+<2023-09-11 +1w>
+
+* Sylabus
+** TODO Homework
+SCHEDULED: <2023-09-12 22:00 +1w>
+20% of grade
+** TODO Midterms
+SCHEDULED: <2023-10-05>
+SCHEDULED: <2023-11-09>
+30% of grade
+** TODO Exam
+50% of grade
+** Textbook: Calculus, Early Transcendentals, James Stuart
+
+* Lectures
+** Lecture 1: [[file:./FleetingNotes/math120l1.pdf]]
+| Concept             | Mastery | Importance | Link                               |
+|---------------------+---------+------------+------------------------------------|
+| Function            |         | Low        | [[./AtomicNotes/functions.org]]        |
+| Core Number Sets    |         |            | [[./AtomicNotes/core_number_sets.org]] |
+| Lemma               |         |            | [[./AtomicNotes/lemma.org]]            |
+| Sqrt2 is Irrational |         |            | [[./AtomicNotes/sqrt2_is_irrational]]  |

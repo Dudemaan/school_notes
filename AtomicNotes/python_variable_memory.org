@@ -1,0 +1,24 @@
+#+title: Python Variable Memory
+#+STARTUP: inlineimages
+
+In normal memory, each variable represents a memory address where the value of the variable is stored. So for example the following piece of code:
+
+int x = 1;
+int y = 1;
+int x = 3;
+
+looks like this in memory:
+
+[[../Assets/normal_mem1.png]] becomes [[../Assets/normal_mem2.png]]
+
+whereas in python, for lower numbers each number has a set spot in memory. So when you change a value of a variable, it doesn't change the value at the address that the variable is pointing too, it changes the address the variable is pointing too to the one with the desired value. So the following piece of code:
+
+x = 1
+y = 1
+x = 3
+
+looks like this in code:
+
+[[../Assets/python_mem1.png]] becomes [[../Assets/python_mem2.png]]
+
+Ints also take on a different format in python, allowing for infinitely large numbers without errors, unlike c.

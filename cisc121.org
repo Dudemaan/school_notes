@@ -2,11 +2,52 @@
 
 * Classes
 ** CISC 121 Lecture 1 9:30-10:30
-SCHEDULED: <2023-09-05 +1w>
+<2023-09-05 +1w>
 LOCATION: Chernoff Hall AUD
 ** CISC 121 Lecture 2 8:30-9:30
-SCHEDULED: <2023-09-07 +1w>
+<2023-09-07 +1w>
 LOCATION: Chernoff Hall AUD
 ** CISC 121 Lecture 3 10:30-11:30
-SCHEDULED: <2023-09-08 +1w>
+<2023-09-08 +1w>
 LOCATION: Chernoff Hall AUD
+
+* Autopilot
+** First Go at CISC Assignments 8:30-9:30
+<2023-09-25>
+<2023-10-16>
+<2023-10-30>
+<2023-11-13>
+<2023-11-27>
+Jeffery Hall
+** CISC Lecture processing 10:30-11:00
+<2023-09-05 +1w>
+Chernoff Lounge
+** CISC Lecture processing 9:30-10:00
+<2023-09-07 +1w>
+Chernoff Lounge
+** CISC Lecture processing 11:30-12:00
+<2023-09-08 +1w>
+Chernoff Lounge
+** CISC Repair/extension sessions 8:30-10:30
+<2023-09-08>
+Chernoff Lounge
+
+
+* Sylabus
+** TODO Assignments
+SCHEDULED: <2023-09-29>
+SCHEDULED: <2023-10-20>
+SCHEDULED: <2023-11-03>
+SCHEDULED: <2023-11-17>
+SCHEDULED: <2023-12-01>
+Worth 0%, due date is for feedback
+** TODO Quizzes
+SCHEDULED: <2023-10-05>
+SCHEDULED: <2023-10-26>
+SCHEDULED: <2023-11-09>
+SCHEDULED: <2023-11-23>
+Worth 40%
+** Exam
+In december, worth 60%
+
+* Lectures

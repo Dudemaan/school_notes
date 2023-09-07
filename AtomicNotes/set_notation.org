@@ -1,0 +1,15 @@
+#+title: Set Notation
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+
+$A \cup B$ full combination of both sets, union
+
+[[~/School/Assets/union.png]]
+
+$A \cap B$ only the parts of the sets that appear in both sets, intersection
+
+[[~/School/Assets/instersection.png]]
+
+$A \subset B$ when one set contains all of the elements of another, subset
+
+[[~/School/Assets/subset.png]]
