@@ -1,0 +1,10 @@
+#+title: Math120a1
+
+* Summary
+Instructions: [[./hmwk01.pdf]]
+Work:
+[[./isaacwinger20167000.tex]]
+[[./isaacwinger20167000pg2.tex]]
+[[./isaacwinger20167000pg3.tex]]
+[[./collaborators.tex
+]]

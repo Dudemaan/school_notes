@@ -1,0 +1,7 @@
+#+title: Orthagonality
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+
+While in 2d we define orthagonality as when two vectors are seperated by an angle of $\frac{\pi}{2}$, in generic $\mathbb{R}^n$ we define is as the [[./dot_product.org][dot product]] of the two vectors equaling zero: $\vec{u}\cdot\vec{v} = 0$. This is because the dot product is a number that is multiplied by the length of the projection of one vector onto another, so when a vector cannot be projected onto another it is called orthogonal. Another way to define orthogonality is similar to [[./angles.org][angles]], where orthagonal vectors form a right angle to eachother when viewed as if they where on a 2d plane which intersects with both vectors rather than viewed in 3d.
+
+[[../Assets/3dangle.png]]

@@ -1,0 +1,31 @@
+\documentclass{article}
+\pagenumbering{gobble}
+\usepackage{amsfonts}
+
+\begin{document}
+\begin{enumerate}
+        \item \begin{enumerate}
+                      The Cauchy-Shwartz inequality is as follows: for all $u$ and $v$ in $\mathbb{R}^{n}$, $|\vec{u} \cdot \vec{v}| \leq ||\vec{u}|| & ||\vec{v}||$. To prove this inequality, we must first prove the lemma that for any two vectors $\vec{u}, \vec{v} \in \mathbb{R}^{n}$, the greatest value of $\vec{u} \cdot \vec{v}$ given that $\vec{v}$ has a set length of $||\vec{v}||$ will be when $\vec{v} = c \vec{u}$ so long as $c \in \mathbb{R}$.
+
+                      From the lemma, we can provide the following equations, where $\vec{w}$ is some vector to add to $\vec{u}$ that will only change its angle and not its length.
+
+                      \begin{equation} ||\vec{v}|| = ||\vec{v} + \vec{w} || \end{equation}
+                      \begin{equation} \vec{v} = c \vec{u} \end{equation}
+
+                      We then rearrange equation one to provide a more useful form.
+
+                      \begin{equation} ||\vec{v}|| = \sqrt{(\vec{v}+\vec{w})\cdot(\vec{v}+\vec{w})} \end{equation}
+                      \begin{equation} ||\vec{v}||^{2} = (\vec{v}+\vec{w})\cdot(\vec{v}+\vec{w}) \end{equation}
+                      \begin{equation} ||\vec{v}||^{2} = \vec{v}\cdot\vec{v} + 2\vec{v}\cdot\vec{w} + \vec{w}\cdot\vec{w} \end{equation}
+                      \begin{equation} ||\vec{v}||^{2} = ||\vec{v}||^{2} + 2\vec{v}\cdot\vec{w} + ||\vec{w}||^{2} \end{equation}
+                      \begin{equation} 0 = 2\vec{v}\cdot\vec{w} + ||\vec{w}||^{2} \end{equation}
+                      \begin{equation} -\frac{1}{2}||\vec{w}||^{2} = \vec{v}\cdot\vec{w} \end{equation}
+
+                      From here we can state the lemma as the inequality $|(\vec{v} + \vec{w})\cdot\vec{u}| \leq |\vec{u}\cdot\vec{v}|$. We can show that the left side will be less by rearranging.
+
+                      \begin{equation} = \vec{v}\cdot\vec{u} + \vec{w}\cdot\vec{u} \end{equation}
+
+                      We can now use equation
+        \end{enumerate}
+\end{enumerate}
+\end{document}

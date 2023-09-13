@@ -1,0 +1,6 @@
+#+title: Interval Bounds As Element
+#+STARTUP: latexpreview
+
+When working with proofs and [[./intervals.org][intervals]] it can be useful to use the edge bounds of square bracket intervals as known elements. You can use it to transfer the element bounds to another set using relationships like subsets, or unions. See example below:
+
+$$ a \in \lbrack a,b\rbrack \subset \lbrack c,d\rbrack \Rightarrow a \in \lbrack c,d\rbrack $$

@@ -1,0 +1,5 @@
+#+title: Cosine Law
+#+STARTUP: inlineimages
+#+STARTUP: latexpreview
+[[../Assets/cosine.png]]
+Cosine law is written as follows: $c^2 = a^2 + b^2 -2ab\cos(\theta)$. This is proven from the image above, since (from [[./pythagorous_theorum.org][pythagorean theorum]]) $c^2=h^2+(b-r)^2$, from sin and cos definitions $a\sin(\theta)=h$ and $a\cos(\theta) = r$, and the trig identity $1 = \cos^2(\theta) + \sin^2(\theta)$ we can prove the formula.

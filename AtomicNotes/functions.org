@@ -1,4 +1,5 @@
 #+title: Functions
+#+STARTUP: latexpreview
 
 Functions are any rule that recieves input, and outputs exactly one output based on that rule. The input and output must be some kind of quantity.
 
@@ -6,3 +7,10 @@ We can study functions using three tools:
 1. [[./derivitives.org][Derivitives]]: approximate the function and its slope at a infinitely small point
 2. [[./integrals.org][Integrals]]: add a bunch of small pieces of the function into a big piece, get the area
 3. [[./power_series.org][Power Series]]: represent complex functions as infinite polynomials
+
+To define a function, we need it [[./domain.org][domain]], [[./codomain.org][codomain]] and an exact rule to take an input and get an output. It can be written as:
+
+$$ f \colon & \mathbf{A} \longrightarrow \mathbf{b} $$
+     $$ x \mapsto x^2 $$
+
+Two functions are equal if and only if their domains and codomains are equal, and for every input in the domain, both functions give the same output.

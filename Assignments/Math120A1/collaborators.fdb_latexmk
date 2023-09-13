@@ -1,0 +1,17 @@
+# Fdb version 4
+["pdflatex"] 1694524999 "collaborators.tex" "collaborators.pdf" "collaborators" 1694524999 0
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls" 1686341992 20144 fbcf51733730d8f1a62143512ff5b1fe ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo" 1686341992 8448 74078c4a887f2cdcd57c3ec111622740 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1681935207 29940 9473d58112bc8a88f5505b823a053dde ""
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1681165822 40967 d940221f8762fd5848760382d97d1226 ""
+  "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1694142596 4663679 70428e62bfeddb1d128c7699ddc4fad8 ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1694028744 8183300 2525cf8095c9ddba85fc5dcbc8840162 ""
+  "/usr/local/texlive/2023/texmf.cnf" 1694028717 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "collaborators.aux" 1694524999 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "collaborators.tex" 1694524998 99 22cc81bc87c7b4a1ec14a2cc728cc834 ""
+  (generated)
+  "collaborators.aux"
+  "collaborators.log"
+  "collaborators.pdf"
+  (rewritten before read)

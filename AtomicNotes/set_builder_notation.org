@@ -1,0 +1,9 @@
+#+title: Set Builder Notation
+
+Set builder notation is a way of defining sets using a rule or set of rules. To determine if an element is in a set or not, apply it to all of the rules and if it passes each, it is in the set. The general form of set builder notation are as follow:
+
+$\{$variable name (possible additional restrictions)  $\mid$ test(s) that the elements have to pass$\}$
+
+An example form can be seen below:
+
+$$ \{a \in \mathbb{N} \mid a \geq 5 \mathbin{\&} a \leq 8 \}$$

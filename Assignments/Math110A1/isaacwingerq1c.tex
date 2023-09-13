@@ -1,0 +1,16 @@
+\documentclass{article}
+\pagenumbering{gobble}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+
+\begin{document}
+We must first simplify the equations for the two orthogonal vectors.
+\[-\vec{e_{1}} + 2\vec{e_{2}} + k\vec{e_{3}} = -\begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix} + 2\begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix} + k \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} = \begin{bmatrix} -1 \\ 2 \\ k \end{bmatrix}\]
+\[-\vec{e_{1}} + k\vec{e_{2}} + 2\vec{e_{3}} = -\begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix} + k\begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix} + 2 \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} = \begin{bmatrix} -1 \\ k \\ 2 \end{bmatrix}\]
+We know that because the vectors are orthogonal, their dot product must be equal to zero. From that we can create the following equation and solve.
+\[\begin{bmatrix} -1 \\ 2 \\ k \end{bmatrix} \cdot \begin{bmatrix} -1 \\ k \\ 2 \end{bmatrix} = 0\]
+\[(-1)\cdot(-1)+2\cdot k+k\cdot2 = 0\]
+\[1+4k=0\]
+\[k=-\frac{1}{4}\]
+Therefore, the only real number value for $k$ that allows the vectors to be orthogonal is $-\frac{1}{4}$.
+\end{document}

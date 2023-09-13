@@ -1,0 +1,15 @@
+\documentclass{article}
+\pagenumbering{gobble}
+\usepackage{amsfonts}
+
+\begin{document}
+The Cauchy Shwartz inequality is that for all vectors $\vec{u},\vec{v}\in\mathbb{R}$,  $|\vec{u}\cdot\vec{v}|\leq||\vec{u}||||\vec{v}||$. To prove this we must start with the fact that $-1\leq\cos(\theta)\leq1$. We can take the absolute value of $\cos$, and since all negative values are flipped we know that $0\leq|\cos(\theta)|\leq1$. First we remove the zero as it is unnecessary for the proof. We can then multiply $||\vec{v}||||\vec{u}||$ to both sides while maintaining the inequality, since we know that vector lengths must be positive.
+\[||\vec{u}||||\vec{v}||\cdot|\cos(\theta)| \leq ||\vec{u}||||\vec{v}||\]
+Since the vector values are both positive, we can expand the absolute value to cover the whole left side without changing the value of that side. Using the identity $\vec{u}\cdot\vec{v}=||\vec{u}||||\vec{v}||\cdot\cos(\theta)$ we can substitute it into the left side of out identity to get the Cauchy-Shwartz inequality.
+\[|\vec{u}\cdot\vec{v}| \leq ||\vec{u}||||\vec{v}||\]
+To show the conditions of equality, we must go back to the equation without the substitution. Setting both sides to equal eachother to state equality, we can rearrange.
+\[||\vec{u}||||\vec{v}||\cdot|\cos(\theta)| = ||\vec{u}||||\vec{v}||\]
+\[|\cos(\theta)| = \frac{||\vec{u}||||\vec{v}||}{||\vec{u}||||\vec{v}||}\]
+\[|\cos(\theta)| = 1\]
+Since the absolute value of $\cos(\theta)$ must be one, we know $\cost(\theta)$ must be either 1 or -1. This is only the case when $\theta = 0$ or $\pi$, meaning that only when one vector is a scalar multiple of the other does the equality hold.
+\end{document}

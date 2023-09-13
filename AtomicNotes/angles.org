@@ -1,0 +1,9 @@
+#+title: Angles
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+
+For the generic case of $\mathbb{R}^n$ angles are defined as $\cos(\theta) = \frac{\vec{u}\cdot\vec{v}}{||\vec{u}||&||\vec{v}||}$. This is due to the [[./cosine_law.org][cosine law]], since, as seen below $||\vec{u}-\vec{v}||$ is also equal to the cosine law of the regular vectors. If you use the [[./dot_product.org][dot product to length conversion]] on one side of the equation and cosine law on the other, the angle equation is derived. This formula can also be thought of as the definition for the [[./dot_product.org][dot product]] where the dot product is the multiplication of lengths that are inline with eachother. In 3d it can be thought of as finding the angle as if it were on a 2d plane, and that 2d plane is the one that intersects both vectors. If you view that 2d plane as the classic cartesian plane, then the vectors will have a clear angle relative to eachother.
+
+[[../Assets/vector_subtraction.png]]
+
+[[../Assets/3dangle.png]]

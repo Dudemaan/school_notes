@@ -1,0 +1,7 @@
+#+title: Image
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+
+The image or range is the smallest possible subset of the codomain which still contains every ouput of the function. $$ Im(f) = \{b \in \mathbf{B} \mid f(a) = b $$ for some $$ a \in \mathbf{A} \} $$ where $$ f \colon & \mathbf{A} \longrightarrow \mathbf{B} $$
+
+[[../Assets/rangeimage.png]]

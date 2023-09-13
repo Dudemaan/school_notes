@@ -1,5 +1,10 @@
 #+title: F Strings
+#+ANKI_DECK: Default
 
+* F Strings
+:PROPERTIES:
+:ANKI_NOTE_ID: 1694201767253
+:END:
 A form of string with a more natural way to put a variable into the text. Type an "f" at the beginning of the quotes, then input any variable names you want to use between "{}". Example:
 
 f"Today is {day_name}"

@@ -1,0 +1,18 @@
+#+title: Lists
+
+Lists are close to equivelant to arrays in python. They store a series of objects starting at index 0, going to index: total number of items in list - 1. They can also be reference starting at the end of the list using [-1] for the last item, [-2] for the second last, and so on.
+
+.insert() -> choose a point in the array to add an element
+
+    my_arr.insert(2, "test")
+
+del -> remove an element from a list
+
+    del my_arr[2]
+
+When setting two lists equal to eachother, they point to the same point in memory, creating an alias.
+
+    a = [1, 2]
+    b = a
+    b[1] = "monkey"
+    print("a[1]") == "monkey"

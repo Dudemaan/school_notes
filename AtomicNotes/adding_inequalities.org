@@ -1,0 +1,6 @@
+#+title: Adding Inequalities
+#+STARTUP: inlineimages
+
+Adding any number to both sides of an inequality results in the inequality being preserved. This is because addition can be thought of as a translation of the number line, no matter how much you move the number line, the relative positions of the numbers will remain the same.
+
+[[../Assets/inequalityadd.png]]

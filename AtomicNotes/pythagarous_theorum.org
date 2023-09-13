@@ -1,0 +1,4 @@
+#+title: Pythagarous Theorum
+#+STARTUP: latexpreview
+
+In the generic case $\mathbb{R}^n$, pythagarous theorum can be thought of as a few things: the [[./dot_product.org][dot product to length conversion]], or as $||\vec{u} + \vec{v}||^2 = ||\vec{u}||^2 + ||\vec{v}||^2$. The second one is true because when vectors are [[./orthagonality.org][orthoganal]] their dot product becomes zero, and pythagarous theorum only works when the two adding vector are orthagonal (form a right angle). so the expanded form of $||\vec{u} + \vec{v} ||^2 = ||\vec{u}||^2 + 2\vec{u}\cdot\vec{v} + ||\vec{v}||^2$ becomes the final equation.

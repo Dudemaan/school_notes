@@ -1,0 +1,4 @@
+#+title: Domain
+#+STARTUP: latexpreview
+
+Domain is the set of all possible (or just the ones desired) outputs for a [[./functions.org][function]]. If there is no set domain, we choose the natural domain: the largets subset of $$ \mathbb{R} $$ that still leads to valid outputs.

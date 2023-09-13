@@ -1,0 +1,17 @@
+#+title: Vector Addition
+#+STARTUP: latexpreview
+
+When we add two real numbers, we get a real number back. Therefore, when we add two [[./vectors.org][vectors]] in $\mathbb{R}^2$, we want to get a vector in $\mathbb{R}^2$ back. The simplest way to do this is to add the individual elements from the first vector to the corresponding element of the second vector, making sure to keep the order. Since each individual multiplication results in a real number, the total number of real numbers in the final vector remains the same. This goes as follows:
+
+$$ \vec{u} + \vec{v} = (x_1, x_2, x_3, \ldots) + (y_1, y_2, y_3, \ldots) = (x_1 + y_1, & x_2 + y_2, & x_3 + y_3, \ldots) $$
+
+This contains a few properties:
+
+1. Commutitivity: it doesn't matter whether you add vector a to b, or vector b to a; $\vec{u} + \vec{v} = \vec{v} + \vec{u}$
+2. Associativity: it doesn't matter what vectors you add together first, as long as you are only adding; $\vec{u} + (\vec{v} + \vec{w}) = (\vec{v} + \vec{u}) + \vec{w}$
+3. Existance of $\vec{0}$: there exists a vector where you can add another vector to it, and get that same vector back; $\vec{u} + \vec{0} = \vec{u}$
+4. Existance of negative vector: for every vector there exists a negative vector that you can add to it to get $\vec{0}$; $\vec{u} + (-\vec{u}) = \vec{0}$
+
+There are also a few additional properties with [[./scalar_multiplication.org][scalar multiplication]]:
+1. Distributive: $c(\vec{u} + \vec{v}) = c\vec{u} + c\vec{v}$ and $(c + d)\vec{u} = c\vec{u} + d\vec{u}$
+2. Associativity: $c(d\vec{u}) = (cd)\vec{u}$

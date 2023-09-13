@@ -1,5 +1,10 @@
 #+title: Doc Strings
+#+ANKI_DECK: Default
 
+* Doc Strings
+:PROPERTIES:
+:ANKI_NOTE_ID: 1694201704411
+:END:
 Represented by three quotation marks to open and close the string. Allows for multiple lines of strings, this can be used to naturally input strings with a newline character, muli-line comments, and documentation in python. Example
 
 """

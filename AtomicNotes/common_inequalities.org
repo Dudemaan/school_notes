@@ -1,0 +1,7 @@
+#+title: Common Inequalities
+
+The first one is $x^2 \geq 0$ so long as x is a real number because a square will always result in a positive number no matter the original number as long as it was real.
+
+The second one is $x^2+y^2\geq 2xy$. this is because we know $(x-y)^2 \geq 0$ from the previous equation, so that can be expanded and the $2xy$ term can be brought to the other side using [[./adding_inequalities.org][inequality addition]].
+
+The final one is the AM-GM inequality. This states that $\sqrt{ab} \leq \frac{a+b}{2}$ so long as $a,b>0$. This is because we can use the previous inequality, but with $x = \sqrt{a}$ and $y=\sqrt{b}$ to get the same equation with a bit of rearranging.

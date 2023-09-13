@@ -1,0 +1,6 @@
+#+title: Inverting Inequalities
+#+STARTUP: inlineimages
+
+Inverting both sides of an inequality will result in the inequality flipping unless the lower side is negative and the higher side is positive. This is because inverting rotates the numbers around 1, but cannot flip signs. So when the negative number is inverted it still results in being lower than the positive number.
+
+[[../Assets/inequalityinvert.png]]

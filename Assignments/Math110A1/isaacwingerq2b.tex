@@ -1,0 +1,19 @@
+\documentclass{article}
+\pagenumbering{gobble}
+\usepackage{amsfonts}
+
+\begin{document}
+The triangle inequality it that for all $\vec{v},\vec{u} \in \mathbb{R}^{n}$, $||\vec{u}+\vec{v}|| \leq ||\vec{u}|| + ||\vec{v}||$ must be true. We can start with the left side of the inequality. Since $||\vec{v}|| = \sqrt{\vec{v}\cdot\vec{v}}$ we can rewrite left side as:
+\[||\vec{u} + \vec{v}|| = \sqrt{(\vec{u}+\vec{v})\cdot(\vec{u}+\vec{v})}\]
+This can be expanded, and both sides can be squared to get:
+\[||\vec{u} + \vec{v}||^{2} = ||\vec{u}||^{2} + 2\vec{u}\cdot\vec{v}+||\vec{v}||^{2}\]
+Since $2\vec{u}\cdot\vec{v}$ can be either a negative number or a positive number, we know that adding the absolute value of that term instead will result in a number that is either equal (in the positive case) or greater than (in the negative case) than the original equation. So, we can write this equality as an inequality.
+\[||\vec{u} + \vec{v}||^{2} \leq ||\vec{u}||^{2} + 2|\vec{u}\cdot\vec{v}|+||\vec{v}||^{2}\]
+Using the Cauchy-Shwartz inequality, we can further alter this part of the right side into terms of lengths.
+\[||\vec{u} + \vec{v}||^{2} \leq ||\vec{u}||^{2} + 2||\vec{u}||||\vec{v}||+||\vec{v}||^{2}\]
+This is just an expanded form of a squared term, so it can be factored as follows.
+\[||\vec{u} + \vec{v}||^{2} \leq (||\vec{u}||+||\vec{v}||)^{2} \]
+We can then apply a square root to both sides to get our inequality. This holds because we know that both terms must result in positive numbers since they are additions of lengths.
+\[||\vec{u} + \vec{v}|| \leq ||\vec{u}||+||\vec{v}|| \]
+To show that
+\end{document}

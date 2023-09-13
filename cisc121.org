@@ -12,6 +12,8 @@ LOCATION: Chernoff Hall AUD
 LOCATION: Chernoff Hall AUD
 
 * Autopilot
+** CISC 121 Problems 8:30-9:30
+<2023-09-12 +1w>
 ** First Go at CISC Assignments 8:30-9:30
 <2023-09-25>
 <2023-10-16>
@@ -29,7 +31,7 @@ Chernoff Lounge
 <2023-09-08 +1w>
 Chernoff Lounge
 ** CISC Repair/extension sessions 8:30-10:30
-<2023-09-08>
+<2023-09-08 +1w>
 Chernoff Lounge
 
 
@@ -51,3 +53,23 @@ Worth 40%
 In december, worth 60%
 
 * Lectures
+
+** Lecture 1: [[./FleetingNotes/cisc121l1.pdf]]
+| Concept                | Mastery      | Importance | Link                                     |
+|------------------------+--------------+------------+------------------------------------------|
+| Doc Strings            | Course level | Low        | [[./AtomicNotes/doc_strings.org]]            |
+| F Strings              | Course level | Low        | [[./AtomicNotes/f_strings.org]]              |
+| Literals               | Course level | Medium     | [[./AtomicNotes/literals.org]]               |
+| Python Variable Memory | Course level | low        | [[./AtomicNotes/python_variable_memory.org]] |
+
+** Lecture 2: [[./FleetingNotes/cisc121l2.pdf]]
+| Concept              | Mastery | Importance | Link                                   |
+|----------------------+---------+------------+----------------------------------------|
+| Integer Division     | Course level | Low        | [[./AtomicNotes/integer_devision.org]]     |
+| Operator Overloading | Course level | Low        | [[./AtomicNotes/operator_overloading.org]] |
+| Lists                | Course level | High       | [[./AtomicNotes/lists.org]]              |
+
+** Lecture 3: [[./FleetingNotes/cisc121l3.pdf]]
+| Concept    | Mastery      | Importance | Link                         |
+| Dictionary | Course level | Medium     | [[./AtomicNotes/dictionary.org]] |
+| Tuples     | Low          | Medium     | [[./AtomicNotes/tuples.org]]     |

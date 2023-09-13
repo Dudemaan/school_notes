@@ -1,0 +1,3 @@
+#+title: Empty Set
+
+The empty set is a set without any elements $\{\}$, denoted by $\emptyset$. Since the empty set has no elements to add, $A\cup\emptyset = A$. Similarly, since the empty set has no elements to share with another set, $A\cap\emptyset = \emptyset$.

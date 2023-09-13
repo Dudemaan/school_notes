@@ -1,6 +1,7 @@
 #+Title: Math120
 
-** TODO Try to get 9th edition of calculus, early transcendentals
+** Edit Math120 homework 8:30-11:00
+SCHEDULED: <2023-09-11>
 
 * Classes
 ** MATH 120A Lecture 1 12:30-13:30
@@ -27,11 +28,17 @@ LOCATION: Jeffery Hall 128
 <2023-09-07 +1w>
 ** Math120 Repair/extension session 14:00-16:00
 <2023-09-11 +1w>
+** Math120 problems 10:00-11:30
+<2023-09-14 +1w>
 
 * Sylabus
 ** TODO Homework
 SCHEDULED: <2023-09-12 22:00 +1w>
 20% of grade
+| Assignment | Link                                  |    Duedate |
+|------------+---------------------------------------+------------|
+| Homework 1 | [[./Assignments/Math120A1/math120a1.org]] | 2023-09-12 |
+| Homework 2 | [[./Assignments/Math120A2/math120a2.org]] | 2023-09-17 |
 ** TODO Midterms
 SCHEDULED: <2023-10-05>
 SCHEDULED: <2023-11-09>
@@ -41,10 +48,38 @@ SCHEDULED: <2023-11-09>
 ** Textbook: Calculus, Early Transcendentals, James Stuart
 
 * Lectures
-** Lecture 1: [[file:./FleetingNotes/math120l1.pdf]]
-| Concept             | Mastery | Importance | Link                               |
-|---------------------+---------+------------+------------------------------------|
-| Function            |         | Low        | [[./AtomicNotes/functions.org]]        |
-| Core Number Sets    |         |            | [[./AtomicNotes/core_number_sets.org]] |
-| Lemma               |         |            | [[./AtomicNotes/lemma.org]]            |
-| Sqrt2 is Irrational |         |            | [[./AtomicNotes/sqrt2_is_irrational]]  |
+** Lecture 1: [[./FleetingNotes/math120l1.pdf]]
+| Concept             | Mastery                   | Importance | Link                                  |
+|---------------------+---------------------------+------------+---------------------------------------|
+| Function            | Course level              | Low        | [[./AtomicNotes/functions.org]]           |
+| Core Number Sets    | Course level              | Low        | [[./AtomicNotes/core_number_sets.org]]    |
+| Lemma               | Course level              | Low        | [[./AtomicNotes/lemma.org]]               |
+| Sqrt2 is Irrational | Medium (fractions, tools) | Medium     | [[./AtomicNotes/sqrt2_is_irrational.org]] |
+
+** Lecture 2: [[./FleetingNotes/math120l2.pdf]]
+| Concept                    | Mastery      | Importance | Link                                         |
+|----------------------------+--------------+------------+----------------------------------------------|
+| Set Notation               | Course level | High       | [[./AtomicNotes/set_notation.org]]               |
+| Empty Set                  | Course level | Medium     | [[./AtomicNotes/empty_set.org]]                  |
+| Set Definition             | Course level | High       | [[./AtomicNotes/set_definition.org]]             |
+| Set Builder Notation       | Course level | Low        | [[./AtomicNotes/set_builder_notation.org]]       |
+| Intervals                  | Course level | Low        | [[./AtomicNotes/intervals.org]]                  |
+| Interval Bounds as Element | Low          | Medium     | [[./AtomicNotes/interval_bounds_as_element.org]] |
+
+** Lecture 3: [[./FleetingNotes/math120l3.pdf]]
+| Concept     | Mastery      | Importance | Link                          |
+|-------------+--------------+------------+-------------------------------|
+| Functions   | Course level | High       | [[./AtomicNotes/functions.org]]   |
+| Domain      | Course level | Medium     | [[./AtomicNotes/domain.org]]      |
+| Codomain    | Course level | Medium     | [[./AtomicNotes/codomain.org]]    |
+| Image/range | Course level | Medium     | [[./AtomicNotes/image.org]]       |
+| Graphs      | Course level | Low        | [[./AtomicNotes/graphs.org]]      |
+| Composition | Course level | Medium     | [[./AtomicNotes/composition.org]] |
+
+** Lecture 4: [[./FleetingNotes/math120l4.pdf]]
+| Concept                       | Mastery      | Importance | Link                                       |
+|-------------------------------+--------------+------------+--------------------------------------------|
+| Adding with Inequalities      | Course Level | Medium     | [[./AtomicNotes/adding_inequalities.org]]      |
+| Multiplying with Inequalities | Course Level | Medium     | [[./AtomicNotes/multiplying_inequalities.org]] |
+| Inverting Inequalities        | Course Level | Medium     | [[./AtomicNotes/inverting_inequalities.org]]   |
+| Common Inequalities           | Course level | Medium     | [[./AtomicNotes/common_inequalities.org]]      |

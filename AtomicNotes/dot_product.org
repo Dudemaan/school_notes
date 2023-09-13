@@ -1,0 +1,21 @@
+#+title: Dot Product
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+
+The dot product is a way of obtaining a [[./scalar_multiplication.org][scalar]] value from two vectors. The general form can be seen below:
+
+$$ \vec{v} \cdot \vec{u} = u_1 v_1 + u_2 v_2 + u_3 v_3 + \ldots $$
+
+The dot product is the length of vector a as viewed from a perspective orthogonal to b (in other words projection), multiplied by the length of b. We do this because simply multiplying the lengths of the vectors would be an uninteresting way to get a scalar product from a vector. This way means you are multiplying the other vectors length only by the amount you are inline with the vector. Since we want to get the projection of a onto b, we use cos because cos = adj/hyp so hyp*cos = adj. This give us the equation $\vec{a}\cdot\vec{v} = ||\vec{a}||||\vec{b}||\cos(\theta)$.
+
+[[../Assets/dot-product-a-cos.svg]]
+
+There are three main rules for dot product:
+
+1. It doesn't matter whether you multiply v by u or u by a; $$ \vec{u} \cdot \vec{v} = \vec{v} \cdot \vec{u} $$
+2. The dot product can be expanded accross addition; $$ \vec{u} \cdot (\vec{v} + \vec{w}) = \vec{u} \cdot \vec{v} + \vec{u} \cdot \vec{w} $$
+3. It does not matter what order you do scalar and dot product multiplication in; $$ \vec{u} \cdot (c\vec{v}) = c(\vec{u} \cdot \vec{v}) $$
+
+Also dot producting a vector to itself and square-rooting it gives the length of the vector ([[./pythagarous_theorum.org][pythagarous theorum]]). Therefore another identity can be formed:
+
+$$ ||\vec{u}||^2 = \vec{u} \cdot \vec{u} $$

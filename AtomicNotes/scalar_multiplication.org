@@ -1,0 +1,6 @@
+#+title: Scalar Multiplication
+#+STARTUP: latexpreview
+
+Scalar multiplication is the multiplication of a real number by a vector. Similar to [[./vector_addition.org][vector addition]] we want get a real number when we multiple two real numbers together. With scalar multiplication, it becomes more complicated, since we have one real number and one number of $\mathbb{R}^m$. By choice, the best way to resolve this is for scalar multiplication to result in a vector of $\mathbb{R}^m$. The simplest way to do this is to multiply every element of the vector by the real number. The generic form is shown below:
+
+$$ c \cdot \vec{u} = (c \cdot x_1, c \cdot x_2, c \cdot x_3, \ldots) $$

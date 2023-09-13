@@ -1,0 +1,7 @@
+#+title: Vectors
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+
+Vectors are objects that exist in [[./r_space.org][R space]]. They contain an amount of real numbers determined by the dimension of the r space. Based on the dimension m, they are written as $\vec{x} = (x_1, x_2, x_3, \ldots, x_m)$. While they are normally thought of as starting at the origin. they can also be represented as 2 points and a direction, or as an initial point, a direction and a length.
+
+[[../Assets/vector.png]]

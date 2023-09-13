@@ -1,0 +1,3 @@
+#+title: Codomain
+
+Codomain is the set or range of all numbers which a function can (or you desire to) output. If no codomain is given in a function we use the natural codomain, which is the [[./image.org][image]] that results from restricting the function to the [[./domain.org][natural domain]].

@@ -1,0 +1,11 @@
+#+title: Tuples
+
+Similar to [[./lists.org][lists]], but the values cannot be changed when set. This means it is immutable. It is denoted by round brackets and commas, an interesting case with only one element:
+
+    tup = (3,)
+
+One key use case is:
+
+    x = 1
+    y = 1
+    x,y = y,x <= swaps variables

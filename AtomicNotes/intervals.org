@@ -1,0 +1,11 @@
+#+title: Intervals
+
+Intervals are just a quicker way of writing [[./set_builder_notation.org][set builder notation]] for a group of sets that are commonly used. They use either square brackets or regular brackets around two number to represent the range between those two numbers. Square brackets signify that the range includes the numbers at the end of the range in the set. Regular brackets show that those numbers are not included, just everything in between. So, in set notation [a,b] is:
+
+$$ \{x \in \mathbb{R} \mid x \geq a \mathbin{\&} x \leq b \} $$
+
+And (a,b) is:
+
+$$ \{ x \in \mathbb{R} \mid x > a \mathbin{\&} x < b \} $$
+
+The brackets can be mixed and matched to suit different needs.

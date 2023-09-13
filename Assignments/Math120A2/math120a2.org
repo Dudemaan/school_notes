@@ -1,0 +1,9 @@
+#+title: Math120a2
+
+* Instructions:
+[[./hmwk02.pdf]]
+
+* Work:
+** Question 1: [[./isaacwingerq1.tex]]
+** Question 2: [[./isaacwingerq2.tex]]
+** Question 3: [[./isaacwingerq3.tex]]

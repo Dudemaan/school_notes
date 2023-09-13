@@ -1,0 +1,19 @@
+#+title: Operator Overloading
+
+Operator overloading is changing the function of an operator (addition, comparison, etc.) based on unique context. This is done in python with both strings and [[./lists.org][lists]].
+
+String Examples:
+
+| Expression         | Value   |
+|--------------------+---------|
+| "Hello" == "Hello" | True    |
+| "He" + "llo"       | "Hello" |
+| "Allow" > "Bllow"  | True    |
+| "20" < "100"       | False   |
+
+List Examples:
+
+| Expression              | Value           |
+|-------------------------+-----------------|
+| [1, 2, 3] + [3, 4]      | [1, 2, 3, 4, 5] |
+| [1, 2, 3] == [1, 2, 3,] | True            |

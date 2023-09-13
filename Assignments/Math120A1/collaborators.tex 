@@ -1,0 +1,6 @@
+\documentclass{article}
+\gobble{pagenumbers}
+
+\begin{document}
+collaborators: none
+\end{document}

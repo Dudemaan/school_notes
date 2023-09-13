@@ -1,8 +1,15 @@
 #+title: Linear Systems
 #+STARTUP: latexpreview
+#+ANKI_DECK: Default
 
+* Linear Systems
+:PROPERTIES:
+:ANKI_NOTE_ID: 1694201135639
+:END:
 A linear system is a collection (set) of [[./linear_equations.org][linear equations]] where the value of each variable is consistent across all equations. An example can be seen below:
 
 $$ \begin{cases} x + y + z + w = 6 \\ y + z + w = 4 \\ y + w = 2 \end{cases} $$
 
-In this case x would be 2, z would be 2, and y and w have infinite values so long as w=2-y.
+In this case x would be 2, z would be 2, and y and w have infinite values so long as w=2-y. Linear systems can also be represented by [[./matrices.org][matrices]]. Simply put all of the coefficients as the elements of the matrix, and use [[./vectors.org][vectors]] for the variables and answers. Using this on the above, you get:
+
+$$ \begin{bmatrix} 1 & 1 & 1 & 1 \\ 0 & 1 & 1 & 1 \\ 0 & 1 & 0 & 1 \end{bmatrix} \begin{bmatrix} x \\ y \\ z \\ w \end{bmatrix} = \begin{bmatrix} 6 \\ 4 \\ 2 \end{bmatrix} $$

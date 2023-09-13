@@ -1,0 +1,5 @@
+#+title: Integer Devision
+
+Using the "\\" operater in python will result in integer division. This is equivilant to regular devision with a floor function. Example:
+
+7 // 3 == 2

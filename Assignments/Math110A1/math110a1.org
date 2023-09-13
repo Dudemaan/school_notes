@@ -1,0 +1,15 @@
+#+title: Math110a1
+
+Instructions: [[./MATH110HW1.pdf]]
+
+Work:
+Question 1.
+a: [[./isaacwingerq1a.tex]]
+b: [[./isaacwingerq1b.tex]]
+c: [[./isaacwingerq1c.tex]]
+d: [[./isaacwingerq1d.tex]]
+e: [[./isaacwingerq1e.tex]]
+
+Question 2.
+a: [[./isaacwingerq2a.tex]]
+b: [[./isaacwingerq2b.tex]]

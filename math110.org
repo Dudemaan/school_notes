@@ -33,12 +33,19 @@ Jeffery Hall
 ** MATH110 weekly repair/extension sessions 13:00-15:00
 <2023-09-06 +1w>
 Jeffery Hall
+** MATH110 problems 11:00-12:30
+<2023-09-12 +1w>
 
 * Sylabus
 ** TODO Homework
 SCHEDULED: <2023-09-15 +1w>
 Problems on ONQ, complete for every friday
 Worth 30% of grade
+| Homework   | Link                                  |    Duedate |
+|------------+---------------------------------------+------------|
+| Homework 1 | [[./Assignments/Math110A1/math110a1.org]] | 2023-09-15 |
+|            |                                       |            |
+
 ** TODO Midterms
 SCHEDULED: <2023-10-17>
 SCHEDULED: <2023-11-21>
@@ -48,10 +55,35 @@ Sometime in december
 Worth 40% of grade
 
 * Lectures
-** Lecture 1: [[file:./FleetingNotes/math110l1.pdf]]
+** Lecture 1: [[./FleetingNotes/math110l1.pdf]]
 | Concept          | Mastery      | Importance | Link                               |
 |------------------+--------------+------------+------------------------------------|
-| Linear Systems   | Course Level | Medium     | [[./AtomicNotes/linear_systems.org]]   |
-| Linear Equations | Course Level | Low        | [[./AtomicNotes/linear_equations.org]] |
-| Core number sets |              |            | [[./AtomicNotes/core_number_sets.org]] |
-| Set Notation     |              |            | [[./AtomicNotes/set_notation.org]]     |
+| Linear Systems   | Course level | Medium     | [[./AtomicNotes/linear_systems.org]]   |
+| Linear Equations | Course level | Low        | [[./AtomicNotes/linear_equations.org]] |
+| Core number sets | Course level | Low        | [[./AtomicNotes/core_number_sets.org]] |
+| Set Notation     | Course level | Medium     | [[./AtomicNotes/set_notation.org]]     |
+
+** Lecture 2: [[./FleetingNotes/math110l2.pdf]]
+| Concept               | Mastery      | Importance | Link                                    |
+|-----------------------+--------------+------------+-----------------------------------------|
+| Linear Systems        | See above    | ""         | [[./AtomicNotes/linear_systems.org]]        |
+| R Space               | Course level | Low        | [[./AtomicNotes/r_space.org]]               |
+| Vectors               | Course level | Medium     | [[./AtomicNotes/vectors.org]]               |
+| Vector addition       | Course level | High       | [[./AtomicNotes/vector_addition.org]]       |
+| Scalar Multiplication | Course level | High       | [[./AtomicNotes/scalar_multiplication.org]] |
+
+** Lecture 3: [[./FleetingNotes/math110l3.pdf]]
+| Concept               | Mastery      | Importance | Link                                    |
+|-----------------------+--------------+------------+-----------------------------------------|
+| Vector addition       | See above    | ""         | [[./AtomicNotes/vector_addition.org]]       |
+| Scalar Multiplication | See above    | ""         | [[./AtomicNotes/scalar_multiplication.org]] |
+| Linear Combinations   | Course level | High       | [[./AtomicNotes/linear_combinations.org]]   |
+| Dot Product           | Course level | High       | [[./AtomicNotes/dot_product.org]]           |
+
+** Lecture 4: [[./FleetingNotes/math110l4.pdf]]
+| Concept             | Mastery      | Importance | Link                                  |
+|---------------------+--------------+------------+---------------------------------------|
+| Orthoganality       | Course level | Medium     | [[./AtomicNotes/orthagonality.org]]       |
+| Cosine Law          | Course level | Low        | [[./AtomicNotes/cosine_law.org]]          |
+| Angles              | Course level | High       | [[./AtomicNotes/angles.org]]              |
+| Pythagorean Theorum | Course level | Low        | [[./AtomicNotes/pythagarous_theorum.org]] |

@@ -1,0 +1,5 @@
+#+title: Graphs
+
+A graph can be defined as a subset of $$ \mathbb{R}^2 $$. It is also every (x, y) pair where x is an element of the domain and y is an element of the outputs of the function, given x as an input. In other words:
+
+$$ \{ (x,y) \in \mathbb{R}^2 \mid x \in \mathbf{A}, y \in f(x) \} $$ given the function $$ f \colon \mathbf{A} \rightarrow \mathbf{B} $$ and $$ \mathbf{A}, \mathbf{B} \subseteq \mathbb{R} $$

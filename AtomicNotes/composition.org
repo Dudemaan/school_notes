@@ -1,0 +1,9 @@
+#+title: Composition
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+
+Composition is taking the rule of one function and replacing the normal input of another function with that functions rule. It can also be thought of as passing the output of one function in as the input to another. As such it only makes sense that the codomain of the initial function must be the same as the domain of the other function. It is represented by $$ (f \circ g)(x) = f(g(x)) $$.
+
+#+attr_html: :width 200px
+#+attr_latex: :width 200px
+[[../Assets/composition.png]]

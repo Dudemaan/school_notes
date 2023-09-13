@@ -1,0 +1,10 @@
+#+title: Dictionary
+
+Similar to a [[./lists.org][list]], but each element has an associated name/key value that can be used to index the dictionary instead of the regular number index. Ex:
+
+    my_diet = {"name":"Alice", "birth_date":2005}
+    my_dict["name"] == "Alice"
+
+You cannot change the key value once it is set, only remove that entry. Most functions that work on lists work on dicts.
+
+    list(my_dict.keys) -> returns a list of all the keys

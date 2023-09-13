@@ -1,0 +1,6 @@
+#+title: Multiplying Inequalities
+#+STARTUP: inlineimages
+
+Multiplying inequalities will preserve the inequality if the multiplier is positive, if it is negative this will result in the inequalities flipping. This is because multiplying any number by negative one rotates it around zero.
+
+[[../Assets/inequalityflip.png]]

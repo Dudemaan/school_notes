@@ -2,14 +2,16 @@
 #+STARTUP: latexpreview
 #+STARTUP: inlineimages
 
-$A \cup B$ full combination of both sets, union
+$A \cup B$ full combination of both sets, union. To prove that $x\in A \cap B$, show that $x \in A$ or $x \in B$ or that both are true.
 
 [[~/School/Assets/union.png]]
 
-$A \cap B$ only the parts of the sets that appear in both sets, intersection
+$A \cap B$ only the parts of the sets that appear in both sets, intersection. To prove that $x\in A \cup B$, show that $x\in A$ AND $x\in B$.
 
 [[~/School/Assets/instersection.png]]
 
-$A \subset B$ when one set contains all of the elements of another, subset
+$A \subset B$ when one set contains all of the elements of another, subset. To prove this show that for each element $x\in A$, $x\in B$
 
 [[~/School/Assets/subset.png]]
+
+$A = B$ if every A contains every elements of B, and vice versa. Therefor $A \subset B$ and $B \subset A$. If a set contains no elements, it is called the [[./empty_set.org][empty set]] and is denoted by $\emptyset$.

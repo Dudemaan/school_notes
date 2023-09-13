@@ -1,0 +1,13 @@
+#+title: R Space
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+#+ANKI_DECK: Default
+
+* R Space
+:PROPERTIES:
+:ANKI_NOTE_ID: 1694637482557
+:END:
+[[./vectors.org][Vectors]] inhabit a space called $\mathbb{R}^m$ where m is a real number. If $\mathbb{R}$ is the set of all [[./core_number_sets.org][real numbers]]
+then $\mathbb{R}^m$ is a collection of sets of all real numbers. A single element of $\mathbb{R}^m$ contains m elements of $\mathbb{R}$, which are called coordinates, and are represented like $(x_1, x_2, x_3, \ldots, x_m)$. Real numbers can also thought of as a number line, so R spaces can be thought of as orthogonal number lines, representing 2d, 3d, or more space.
+
+[[~/School/Assets/r_space.png]]

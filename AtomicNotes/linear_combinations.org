@@ -1,0 +1,19 @@
+#+title: Linear Combinations
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+
+One vector is a linear combination of a group of other vectors if you can attain the main vector by only using scalar multiplication and addition on the vectors in the group. This takes the form shown below:
+
+$$ \vec{u} = c_1 \vec{u_1} + c_2 \vec{u_2} + c_3 \vec{u_3} + \ldots $$
+
+This can be thought of as the set of directions that are capable of making it to any given vector, where you can walk as long as you want along each direction or you can walk backwards.
+
+[[../Assets/linear_combination.png]]
+
+This can also be written as:
+
+$$ \vec{u} = c_1 \begin{bmatrix} w_1 \\ w_2 \\ w_3 \end{bmatrix} + c_2 \begin{bmatrix} v_1 \\ v_2 \\ v_3 \end{bmatrix} + \cdots $$
+
+Wich is similar to a [[./linear_systems.org][linear system]]. So it can be rewritten as below and solved.
+
+$$ \begin{bmatrix} u_1 \\ u_2 \\ u_3 \end{bmatrix} = \begin{bmatrix} c_1 \\ c_2 \\ c_3 \end{bmatrix} \begin{bmatrix} v_1 & v_2 & v_3 \\ w_1 & w_2 & w_3 \\ x_1 & x_2 & x_3 \end{bmatrix} $$
