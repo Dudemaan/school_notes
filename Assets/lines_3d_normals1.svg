@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg8" width="42.992mm" height="49.532mm" version="1.1" viewBox="0 0 21.496 24.766" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs2">
+  <marker id="marker-arrow-0.5308" markerHeight="1.6900001" markerWidth="0.91100001" orient="auto-start-reverse">
+   <g id="g1" transform="scale(2.1535)">
+    <path id="path1-3" d="M -1.55415,2.0722 C -1.42464,1.29512 0,0.1295 0.38852,0 0,-0.1295 -1.42464,-1.29512 -1.55415,-2.0722" fill="none" stroke="#abb2bf" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".6"/>
+   </g>
+  </marker>
+  <marker id="marker-arrow-0.5308-62" markerHeight="1.6900001" markerWidth="0.91100001" orient="auto-start-reverse">
+   <g id="g1-9" transform="scale(2.1535)">
+    <path id="path1-3-1" d="M -1.55415,2.0722 C -1.42464,1.29512 0,0.1295 0.38852,0 0,-0.1295 -1.42464,-1.29512 -1.55415,-2.0722" fill="none" stroke="#abb2bf" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".6"/>
+   </g>
+  </marker>
+ </defs>
+ <metadata id="metadata5">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-2.8314 -180.97)" stroke="#abb2bf" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="5" stroke-width=".07022">
+  <g id="g4" transform="translate(-.36769 -.57956)" fill="none">
+   <path id="path3" d="m8.6795 198.82v-17.169" marker-end="url(#marker-arrow-0.5308-62)" style="paint-order:stroke fill markers"/>
+   <path id="path2" d="m7.1842 197.35h17.407" marker-end="url(#marker-arrow-0.5308-62)" style="paint-order:stroke fill markers"/>
+  </g>
+  <path id="path4" d="m8.3118 196.82-5.2873 8.8108" fill="none" marker-end="url(#marker-arrow-0.5308)" style="paint-order:stroke fill markers"/>
+  <path id="path5" d="m15.872 192.37-5.6293 9.1998" fill="none" marker-end="url(#marker-arrow-0.5308)" style="paint-order:stroke fill markers"/>
+  <ellipse id="path6" cx="15.855" cy="192.21" rx="3.1458" ry="2.9824" fill="#abb2bf" fill-opacity=".12" style="paint-order:stroke fill markers"/>
+  <path id="path7" d="m15.856 192.31 2.5702-1.8225" fill="none" marker-end="url(#marker-arrow-0.5308)" style="paint-order:stroke fill markers"/>
+  <path id="path8" d="m15.856 192.31-2.9164-1.2251" fill="none" marker-end="url(#marker-arrow-0.5308)" style="paint-order:stroke fill markers"/>
+  <path id="path9" d="m15.856 192.31 0.94807 2.7391" fill="none" marker-end="url(#marker-arrow-0.5308)" style="paint-order:stroke fill markers"/>
+  <path id="path16" d="m17.57 189.71 2.9841-4.8769" fill="none" marker-end="url(#marker-arrow-0.5308)" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>
