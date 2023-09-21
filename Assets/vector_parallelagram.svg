@@ -169,6 +169,17 @@
            id="path4-2" />
       </g>
     </g>
+    <g
+       id="g1-3">
+      <g
+         id="glyph-0-0-6" />
+      <g
+         id="glyph-0-1-7">
+        <path
+           d="M 5.296875 -6.015625 C 5.296875 -7.234375 4.90625 -8.421875 3.9375 -8.421875 C 2.265625 -8.421875 0.484375 -4.90625 0.484375 -2.28125 C 0.484375 -1.734375 0.59375 0.125 1.859375 0.125 C 3.484375 0.125 5.296875 -3.296875 5.296875 -6.015625 Z M 1.671875 -4.328125 C 1.859375 -5.03125 2.109375 -6.03125 2.578125 -6.890625 C 2.96875 -7.609375 3.390625 -8.171875 3.921875 -8.171875 C 4.3125 -8.171875 4.578125 -7.84375 4.578125 -6.6875 C 4.578125 -6.265625 4.546875 -5.671875 4.203125 -4.328125 Z M 4.109375 -3.96875 C 3.8125 -2.796875 3.5625 -2.046875 3.125 -1.296875 C 2.78125 -0.6875 2.359375 -0.125 1.859375 -0.125 C 1.5 -0.125 1.1875 -0.40625 1.1875 -1.59375 C 1.1875 -2.359375 1.390625 -3.171875 1.578125 -3.96875 Z M 4.109375 -3.96875 "
+           id="path1-53" />
+      </g>
+    </g>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -305,6 +316,18 @@
        y="20.476999"
        id="use8"
        transform="matrix(0.13229167,0,0,0.13229167,13.514993,186.9908)"
+       style="fill:#abb2bf;fill-opacity:1;stroke:none;stroke-opacity:1;marker-start:none;marker-end:none" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#abb2bf;stroke-width:0.0702204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;paint-order:stroke fill markers"
+       d="m 7.8582828,193.58983 c 0,0 0.9921228,-0.0944 1.3537506,0.3402 0.3596146,0.42199 0.00573,1.26509 0.00573,1.26509"
+       id="path6"
+       sodipodi:nodetypes="ccc" />
+    <use
+       xlink:href="#glyph-0-1-7"
+       x="11.955"
+       y="20.257999"
+       id="use1"
+       transform="matrix(0.13229167,0,0,0.13229167,7.7631386,190.84956)"
        style="fill:#abb2bf;fill-opacity:1;stroke:none;stroke-opacity:1;marker-start:none;marker-end:none" />
   </g>
 </svg>
